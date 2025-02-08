@@ -1,0 +1,4 @@
+aiogram
+python-dotenv
+requests
+google_drive_downloader
