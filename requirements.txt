@@ -1,4 +1,4 @@
 aiogram
-python-dotenv
+gdown
 requests
-google_drive_downloader
+flask
